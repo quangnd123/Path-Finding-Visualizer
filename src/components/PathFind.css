@@ -1,0 +1,13 @@
+.Table-Wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  display: flex;
+}
+.Button-Wrapper {
+  justify-content: space-around;
+  display: flex;
+}
+.rowWrapper {
+  display: flex;
+}
